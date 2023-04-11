@@ -1,0 +1,1 @@
+SET_CAN_PED_SELECT_ALL_WEAPONS(ped, true)
